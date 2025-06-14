@@ -10,9 +10,9 @@
 ## 🚀 Deployment Options
 
 ### ⭐ Fork & Star the Repository
-Fork this repo and give it a ⭐ to support Malvin King!
+Fork this repo and give it a ⭐ to support Pkdriller!
 
-[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/XdKing2/Jinwoo-v4/fork)
+[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/Pkdriller/NEXUS-AI/fork)
 
 ---
 
@@ -27,10 +27,8 @@ Fork this repo and give it a ⭐ to support Malvin King!
 ### 🛠 Step-by-Step Deployment Guide
 
 #### 🟣 Heroku
-- [Sign up](https://signup.heroku.com/)
-- Deploy directly:
-
-[![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/XdKing2/Jinwoo-v4)
+---
+[![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Pkdriller/NEXUS-AI)
 
 ---
 
@@ -81,21 +79,6 @@ Fork this repo and give it a ⭐ to support Malvin King!
 - Push your branch to your forked repository.
 - Open a pull request with a detailed description of your changes.
 
----
-
-### 🧑‍💻 Connect with the Developer
-
-<p align="center">
-  <a href="https://github.com/Pkdriller">
-    <img src="https://img.shields.io/badge/GitHub-XdKing2-blue?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://t.me/malvinking2">
-    <img src="https://img.shields.io/badge/Telegram-@malvinking2-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://wa.me/254794146821">
-    <img src="https://img.shields.io/badge/WhatsApp-Click%20Here%20to%20Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-/p>
 
 ---
 
@@ -103,7 +86,7 @@ Fork this repo and give it a ⭐ to support Malvin King!
 
 ## ⚠️ Disclaimer
 
-*Jinwoo v4 Bot is not affiliated with WhatsApp Inc. Misusing the bot could result in a temporary or permanent WhatsApp ban. Mr Malvin King is not responsible for any bans or restrictions that may occur.*
+*NEXUS-AI Bot is not affiliated with WhatsApp Inc. Misusing the bot could result in a temporary or permanent WhatsApp ban. Pkdriller is not responsible for any bans or restrictions that may occur.*
 
 ---
 
@@ -119,4 +102,4 @@ Fork this repo and give it a ⭐ to support Malvin King!
  
 <p align="center">
   
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A)
+[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/CbY7YiuobJ1AlMJ8PviKpm)
