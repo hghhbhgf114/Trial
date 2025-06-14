@@ -1,77 +1,122 @@
-# <span id="auto-type-title"></span>
+>
 
-<div align="center">
+---
 
-<div id="buttons-section" style="display: flex; flex-direction: column; align-items: center; gap: 1.5rem; margin-top: 2rem;">
 
-<a href="https://github.com/Pkdriller/NEXUS-AI/fork" target="_blank" style="text-decoration: none;">
-  <button class="nexus-button" id="fork-btn">🍴 Fork this Repo</button>
-</a>
+</details>
 
-<a href="https://nexus-ai-pairing-website.vercel.app/" target="_blank" style="text-decoration: none;">
-  <button class="nexus-button" id="session-btn">🔑 Get Session</button>
-</a>
+---
 
-<a href="https://github.com/Pkdriller" target="_blank" style="text-decoration: none;">
-  <button class="nexus-button" id="github-follow-btn">⭐ Follow Me on GitHub</button>
-</a>
+## 🚀 Deployment Options
 
-<a href="https://whatsapp.com/channel/0029VaB1rUIEzg1l9nQpMx3P" target="_blank" style="text-decoration: none;">
-  <button class="nexus-button" id="whatsapp-btn">💬 Follow WhatsApp Channel</button>
-</a>
+### ⭐ Fork & Star the Repository
+Fork this repo and give it a ⭐ to support Malvin King!
 
-<a href="https://heroku.com/deploy?template=https://github.com/Pkdriller/NEXUS-AI" target="_blank" style="text-decoration: none;">
-  <button class="nexus-button" id="heroku-btn">🚀 Deploy on Heroku</button>
-</a>
+[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/XdKing2/Jinwoo-v4/fork)
 
-<a href="https://render.com/deploy?repo=https://github.com/Pkdriller/NEXUS-AI" target="_blank" style="text-decoration: none;">
-  <button class="nexus-button" id="render-btn">🌐 Deploy on Render</button>
-</a>
+---
 
-<a href="https://railway.app/new/template/JJvLcf" target="_blank" style="text-decoration: none;">
-  <button class="nexus-button" id="railway-btn">⚡ Deploy on Railway</button>
-</a>
+### 🔌 Pairing Code / Session Generator
 
-<a href="https://github.com/Pkdriller/NEXUS-AI/issues/new?labels=bug&template=bug_report.md" target="_blank" style="text-decoration: none;">
-  <button class="nexus-button" id="report-btn">❗ Report Error</button>
-</a>
+[![Pair Code](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://jinwoo-pair-j0v0.onrender.com/pair)
 
-</div>
+[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://jinwoo-pair-j0v0.onrender.com)
 
-</div>
+---
 
-<style>
-.nexus-button {
-  font-size: 1.5rem;
-  font-weight: bold;
-  padding: 1.2rem 2.4rem;
-  margin: 0.5rem 0;
-  border: none;
-  border-radius: 2.5rem;
-  background: linear-gradient(90deg, #1e3c72, #2a5298, #00c6ff);
-  color: #fff;
-  box-shadow: 0 4px 16px rgba(30,60,114,.18);
-  cursor: pointer;
-  transition: transform 0.12s, box-shadow 0.12s;
-  outline: none;
-  letter-spacing: 1.5px;
-  min-width: 330px;
-  max-width: 90vw;
-  display: block;
-  text-shadow: 0 2px 8px rgba(0,0,0,.08);
-}
-.nexus-button:hover {
-  transform: scale(1.06);
-  box-shadow: 0 8px 28px rgba(44,83,100,.23);
-  background: linear-gradient(90deg, #00c6ff, #2a5298, #1e3c72);
-}
-</style>
+### 🛠 Step-by-Step Deployment Guide
 
-<script>
-const typingData = [
-  { id: "auto-type-title", words: ["NEXUS AI BOT", "AI WhatsApp Assistant", "Fork, Deploy, Pair, Chat!", "🚀 All-in-One AI Starter"] },
-  { id: "fork-btn", words: ["🍴 Fork this Repo", "🍴 Clone Instantly"] },
-  { id: "session-btn", words: ["🔑 Get Session", "🔑 Free AI Pairing"] },
-  { id: "github-follow-btn", words: ["⭐ Follow Me on GitHub", "⭐ Star & Follow!"] },
-  { id: "whatsapp-btn", words: ["💬 Follow WhatsApp Channel", "💬 Join Updates!"] },
-  { id: "heroku-btn", words
+#### 🟣 Heroku
+- [Sign up](https://signup.heroku.com/)
+- Deploy directly:
+
+[![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/XdKing2/Jinwoo-v4)
+
+---
+
+#### 🔴 Koyeb
+
+[![Deploy on Koyeb](https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white)](https://github.com/XdKing2/Jinwoo-v4)
+
+---
+
+#### 🟪 Railway
+
+[![Deploy on Railway](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/login)
+
+---
+
+#### 🔵 Toystack
+
+[![Deploy on Toystack](https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=toystack&logoColor=white)](https://toystack.ai)
+
+---
+
+#### ⚫ Render
+
+[![Deploy on Render](https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com)
+
+---
+
+#### 🟠 Replit
+
+[![Deploy on Replit](https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white)](https://repl.it/github/XdKing2/Jinwoo-v4)
+
+---
+
+#### 🟢 Panel 
+
+[![Deploy on Panel](https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://bot-hosting.net/?aff=1097457675723341836)
+
+---
+
+---
+
+
+## 🛠️ Contributing
+
+- Fork the repository.
+- Create a new branch for your feature or fix.
+- Commit your changes with a clear and concise message.
+- Push your branch to your forked repository.
+- Open a pull request with a detailed description of your changes.
+
+---
+
+### 🧑‍💻 Connect with the Developer
+
+<p align="center">
+  <a href="https://github.com/Pkdriller">
+    <img src="https://img.shields.io/badge/GitHub-XdKing2-blue?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://t.me/malvinking2">
+    <img src="https://img.shields.io/badge/Telegram-@malvinking2-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://wa.me/254794146821">
+    <img src="https://img.shields.io/badge/WhatsApp-Click%20Here%20to%20Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+/p>
+
+---
+
+</details>
+
+## ⚠️ Disclaimer
+
+*Jinwoo v4 Bot is not affiliated with WhatsApp Inc. Misusing the bot could result in a temporary or permanent WhatsApp ban. Mr Malvin King is not responsible for any bans or restrictions that may occur.*
+
+---
+
+ 
+
+
+## Main Developer
+<a href="https://github.com/Pkdriller"><img src="https://github.com/Pkdriller.png" width="250" height="250" alt="XdKing2"/></a>
+  
+
+
+
+ 
+<p align="center">
+  
+[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A)
