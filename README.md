@@ -18,9 +18,9 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 
 ### 🔌 Pairing Code / Session Generator
 
-[![Pair Code](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://jinwoo-pair-j0v0.onrender.com/pair)
+[![Pair Code](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://github.com/Pkdriller/NEXUS-AI)
 
-[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://jinwoo-pair-j0v0.onrender.com)
+
 
 ---
 
@@ -68,37 +68,12 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 
 ---
 
----
-
-
-## 🛠️ Contributing
-
-- Fork the repository.
-- Create a new branch for your feature or fix.
-- Commit your changes with a clear and concise message.
-- Push your branch to your forked repository.
-- Open a pull request with a detailed description of your changes.
-
-
----
-
-</details>
-
-## ⚠️ Disclaimer
-
-*NEXUS-AI Bot is not affiliated with WhatsApp Inc. Misusing the bot could result in a temporary or permanent WhatsApp ban. Pkdriller is not responsible for any bans or restrictions that may occur.*
-
----
-
  
 
 
 ## Main Developer
 <a href="https://github.com/Pkdriller"><img src="https://github.com/Pkdriller.png" width="250" height="250" alt="XdKing2"/></a>
   
-
-
-
  
 <p align="center">
   
