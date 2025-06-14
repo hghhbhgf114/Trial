@@ -1,3 +1,19 @@
+# NEXUS-AI 
+
+<!-- Glowing Header -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=☣️+NEXUS+AI+VERSION;👻+The+Best+Simple+WhatsApp+Bot+Across+The+Glob;💻+Crafted+by+Pkdriller💀;🐕‍🦺+Next-Generation+Reliable+✅" alt="Typing Animation">
+</h1>
+
+<!-- Banner Image -->
+<p align="center">
+  <a href="https://files.catbox.moe/3u88n0.webp">
+    <img src="https://files.catbox.moe/6th9wq.jpg" width="100%" height="auto">
+  </a>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
 >
 
 ---
