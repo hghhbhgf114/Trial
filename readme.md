@@ -62,7 +62,7 @@ src="mydata/media/joelXtec.jpg"/>
 
 
 
-<a href='https://deployments-web-joel-xmd-bot.vercel.app/' target="_blank"><img alt='joel' src='https://img.shields.io/badge/RAILWAY-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://deployments-web-joel-xmd-bot.vercel.app/' target="_blank"><img alt='joel' src='https://img.shields.io/badge/RAILWAY-h?color=white&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 **ᴅᴇᴘʟᴏʏ_ɢʟɪᴛᴄʜ** 
