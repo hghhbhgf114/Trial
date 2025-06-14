@@ -30,7 +30,7 @@ src="mydata/media/joelXtec.jpg"/>
 
  
 
-<a href='https://deployments-web-joel-xmd-bot.vercel.app/' target="_blank"><img alt='joel' src='https://img.shields.io/badge/HEROKU-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://deployments-web-joel-xmd-bot.vercel.app/' target="_blank"><img alt='joel' src='https://img.shields.io/badge/HEROKU-h?color=red&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
@@ -42,7 +42,7 @@ src="mydata/media/joelXtec.jpg"/>
 
 
 
-<a href='https://deployments-web-joel-xmd-bot.vercel.app/' target="_blank"><img alt='joel' src='https://img.shields.io/badge/REPLIT-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://deployments-web-joel-xmd-bot.vercel.app/' target="_blank"><img alt='joel' src='https://img.shields.io/badge/REPLIT-h?color=orange&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
@@ -52,7 +52,7 @@ src="mydata/media/joelXtec.jpg"/>
 
 
 
-<a href='https://deployments-web-joel-xmd-bot.vercel.app/' target="_blank"><img alt='joel' src='https://img.shields.io/badge/KOYEB-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://deployments-web-joel-xmd-bot.vercel.app/' target="_blank"><img alt='joel' src='https://img.shields.io/badge/KOYEB-h?color=yellow&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 **ᴅᴇᴘʟᴏʏ ʀᴀɪʟᴡᴀʏ**
