@@ -18,7 +18,7 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 
 ### 🔌 Pairing Code / Session Generator
 
-[![Pair Code](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Google)](https://github.com/Pkdriller/NEXUS-AI)
+[![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://github.com/Pkdriller/NEXUS-AI)
 
 
 
